@@ -27,8 +27,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/jiehlarae/profile-card-component.git]
+- Live Site URL: [https://jiehlarae.github.io/profile-card-component/]
 
 ## My process
 
@@ -40,7 +40,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-This challenge was pretty straightforward and short. The background image part could be a bit tricky, especially if you're not that familiar with using multiple background images and their properties. Furthermore, the user image proved to be somewhat perplexing. The user image also threw me off a bit; I might have overanalyzed it, but I managed to get it to work by using a "margin-top" instead of messing with the "position" property.
+This challenge was pretty straightforward and short. The background image part could be a bit tricky, especially if you're not that familiar with using multiple background images and their properties. Furthermore, the user image also threw me off a bit; I might have overanalyzed it, but I managed to get it to work by using a "margin-top" instead of messing with the "position" property.
 
 ```css
 .card-text img {
